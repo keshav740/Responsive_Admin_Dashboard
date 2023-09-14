@@ -1,0 +1,85 @@
+*{
+    font-family: lobstar;
+   
+}
+
+.logo {
+    height: 100px;
+}
+
+.scholl-details {
+    text-align: center;
+}
+.certificate{
+    text-align: center;
+    margin-left: 28%;
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    width: 35%;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.fill-input{
+    text-decoration: underline;
+}
+.admission{
+    margin-top: -40px !important;
+    /* margin-bottom: 30px !important; */
+}
+.noPrint{
+   
+    /* width: 10%; */
+    background-color: black;
+    color: white;
+    height: 50px;
+    border-radius: 20px;
+    padding: 9px 20px 15px 20px !important;
+    margin-right: 10px !important;
+    margin-top: 10px;
+    /* margin-left: 60rem !important; */
+   /* margin-top: -15px; */
+
+
+}
+
+
+
+
+
+
+
+/* @media screen and (max-width: 667px) and (min-width: 375px) { */
+    @media screen and (max-width: 700px){
+    /* .certificate{
+        font-size: 16px;
+        align-items: center;
+        width: 60%;
+   
+
+    } */
+    .certificate{
+        font-size: 16px;
+    }
+    .logo {
+        height: 100px;
+        margin-left: 120px !important;
+        /* align-items: center !important;
+        text-align: center !important;
+        justify-content: center !important; */
+
+    }
+    .school-code{
+        margin-top: -25px;
+    }
+
+
+
+  }
+
+
+
+/* hr.underline {
+    border: 10px solid black !important;
+} */
